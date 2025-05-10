@@ -6,6 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in iran
 * ✉️  You can contact me at [bahamin.hosseinpoor@gmail.com](mailto:bahamin.hosseinpoor@gmail.com)
+* 🧠  I'm learning frontend development
 
 ### Skills
 
